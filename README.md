@@ -13,3 +13,9 @@ or
 go build csv2json.go
 csv2json --pretty <filename>
 ```
+
+To see a list of all the options you can use, run this:
+
+```
+csv2json --help
+```
